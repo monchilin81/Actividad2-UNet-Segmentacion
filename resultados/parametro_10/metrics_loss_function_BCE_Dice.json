@@ -1,0 +1,14 @@
+{
+    "experiment_name": "Parametro_10_LossFunction",
+    "parameter_name": "loss_function",
+    "parameter_value": "BCE_Dice",
+    "training_time_minutes": 88.91,
+    "best_val_iou": 0.0707147866487503,
+    "best_val_dice": 0.1319604068994522,
+    "best_val_f1": 0.1319602131843567,
+    "best_val_accuracy": 0.9269615411758423,
+    "best_val_loss": 1.2225751876831055,
+    "best_train_accuracy": 0.921651303768158,
+    "best_train_loss": 1.094957709312439,
+    "total_epochs": 5
+}

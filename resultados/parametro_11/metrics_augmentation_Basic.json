@@ -1,0 +1,14 @@
+{
+    "experiment_name": "Parametro_11_Augmentation",
+    "parameter_name": "augmentation",
+    "parameter_value": "Basic",
+    "training_time_minutes": 160.33,
+    "best_val_iou": 0.07018964737653732,
+    "best_val_dice": 0.13063184916973114,
+    "best_val_f1": 0.13063174486160278,
+    "best_val_accuracy": 0.9318849444389343,
+    "best_val_loss": 0.2711447477340698,
+    "best_train_accuracy": 0.927487313747406,
+    "best_train_loss": 0.23584705591201782,
+    "total_epochs": 10
+}

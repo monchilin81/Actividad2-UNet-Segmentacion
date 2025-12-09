@@ -1,0 +1,14 @@
+{
+    "experiment_name": "Parametro_10_LossFunction",
+    "parameter_name": "loss_function",
+    "parameter_value": "Dice",
+    "training_time_minutes": 89.93,
+    "best_val_iou": 0.07564128935337067,
+    "best_val_dice": 0.1404326856136322,
+    "best_val_f1": 0.14043253660202026,
+    "best_val_accuracy": 0.9107853770256042,
+    "best_val_loss": 0.8595731258392334,
+    "best_train_accuracy": 0.6067675948143005,
+    "best_train_loss": 0.8053247928619385,
+    "total_epochs": 5
+}

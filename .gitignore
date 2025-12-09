@@ -1,0 +1,49 @@
+# Archivos de modelos (muy grandes)
+*.keras
+*.h5
+*.pkl
+*.pickle
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Datos grandes (si es necesario)
+*.zip
+*.tar.gz
+*.tar
+
+# Archivos de configuración local
+config_local.py
+secrets.py
+
+# Resultados de ejecución (si ocupan mucho espacio)
+# Descomenta si es necesario:
+# resultados/
+# *.csv (si los archivos CSV son muy grandes)

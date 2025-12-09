@@ -1,0 +1,63 @@
+LOGS DE ENTRENAMIENTO - loss_function = BCE
+================================================================================
+
+Epoch 1/5
+  accuracy: 0.8680
+  dice_coef: 0.0383
+  f1_score: 0.0383
+  iou_metric: 0.0204
+  loss: 0.3890
+  val_accuracy: 0.0772
+  val_dice_coef: 0.1364
+  val_f1_score: 0.1364
+  val_iou_metric: 0.0733
+  val_loss: 1216.4999
+
+Epoch 2/5
+  accuracy: 0.9284
+  dice_coef: 0.0036
+  f1_score: 0.0036
+  iou_metric: 0.0018
+  loss: 0.2562
+  val_accuracy: 0.5738
+  val_dice_coef: 0.1187
+  val_f1_score: 0.1187
+  val_iou_metric: 0.0631
+  val_loss: 2.1597
+
+Epoch 3/5
+  accuracy: 0.9286
+  dice_coef: 0.0020
+  f1_score: 0.0020
+  iou_metric: 0.0010
+  loss: 0.2438
+  val_accuracy: 0.5384
+  val_dice_coef: 0.1761
+  val_f1_score: 0.1761
+  val_iou_metric: 0.0968
+  val_loss: 1.2691
+
+Epoch 4/5
+  accuracy: 0.9287
+  dice_coef: 0.0008
+  f1_score: 0.0008
+  iou_metric: 0.0004
+  loss: 0.2393
+  val_accuracy: 0.7378
+  val_dice_coef: 0.0850
+  val_f1_score: 0.0850
+  val_iou_metric: 0.0445
+  val_loss: 0.6874
+
+Epoch 5/5
+  accuracy: 0.9285
+  dice_coef: 0.0024
+  f1_score: 0.0024
+  iou_metric: 0.0012
+  loss: 0.2383
+  val_accuracy: 0.9270
+  val_dice_coef: 0.0000
+  val_f1_score: 0.0000
+  val_iou_metric: 0.0000
+  val_loss: 0.2989
+

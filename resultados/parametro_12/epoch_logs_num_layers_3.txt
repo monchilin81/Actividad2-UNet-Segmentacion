@@ -1,0 +1,63 @@
+LOGS DE ENTRENAMIENTO - num_layers = 3
+================================================================================
+
+Epoch 1
+  Loss: 0.396939
+  Val Loss: 0.926520
+  Accuracy: 0.855802
+  Val Accuracy: 0.616362
+
+Epoch 2
+  Loss: 0.222759
+  Val Loss: 1.229587
+  Accuracy: 0.931656
+  Val Accuracy: 0.279288
+
+Epoch 3
+  Loss: 0.184496
+  Val Loss: 0.680879
+  Accuracy: 0.942924
+  Val Accuracy: 0.545701
+
+Epoch 4
+  Loss: 0.156547
+  Val Loss: 0.259576
+  Accuracy: 0.951107
+  Val Accuracy: 0.926967
+
+Epoch 5
+  Loss: 0.141217
+  Val Loss: 0.265166
+  Accuracy: 0.955158
+  Val Accuracy: 0.926967
+
+Epoch 6
+  Loss: 0.128727
+  Val Loss: 0.290372
+  Accuracy: 0.957951
+  Val Accuracy: 0.926967
+
+Epoch 7
+  Loss: 0.121620
+  Val Loss: 0.303985
+  Accuracy: 0.959857
+  Val Accuracy: 0.926965
+
+Epoch 8
+  Loss: 0.114495
+  Val Loss: 0.315552
+  Accuracy: 0.961884
+  Val Accuracy: 0.926951
+
+Epoch 9
+  Loss: 0.108881
+  Val Loss: 0.320286
+  Accuracy: 0.963348
+  Val Accuracy: 0.926911
+
+Epoch 10
+  Loss: 0.106496
+  Val Loss: 0.341155
+  Accuracy: 0.963516
+  Val Accuracy: 0.926800
+

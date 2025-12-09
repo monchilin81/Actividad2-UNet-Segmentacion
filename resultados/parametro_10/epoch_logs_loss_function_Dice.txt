@@ -1,0 +1,63 @@
+LOGS DE ENTRENAMIENTO - loss_function = Dice
+================================================================================
+
+Epoch 1/5
+  accuracy: 0.4566
+  dice_coef: 0.1790
+  f1_score: 0.1790
+  iou_metric: 0.0984
+  loss: 0.8236
+  val_accuracy: 0.0730
+  val_dice_coef: 0.1359
+  val_f1_score: 0.1359
+  val_iou_metric: 0.0730
+  val_loss: 0.8657
+
+Epoch 2/5
+  accuracy: 0.5498
+  dice_coef: 0.1854
+  f1_score: 0.1854
+  iou_metric: 0.1023
+  loss: 0.8163
+  val_accuracy: 0.0731
+  val_dice_coef: 0.1359
+  val_f1_score: 0.1359
+  val_iou_metric: 0.0730
+  val_loss: 0.8634
+
+Epoch 3/5
+  accuracy: 0.5157
+  dice_coef: 0.1867
+  f1_score: 0.1867
+  iou_metric: 0.1031
+  loss: 0.8148
+  val_accuracy: 0.9108
+  val_dice_coef: 0.0107
+  val_f1_score: 0.0107
+  val_iou_metric: 0.0055
+  val_loss: 0.9533
+
+Epoch 4/5
+  accuracy: 0.5580
+  dice_coef: 0.1845
+  f1_score: 0.1845
+  iou_metric: 0.1019
+  loss: 0.8159
+  val_accuracy: 0.1094
+  val_dice_coef: 0.1404
+  val_f1_score: 0.1404
+  val_iou_metric: 0.0756
+  val_loss: 0.8596
+
+Epoch 5/5
+  accuracy: 0.6068
+  dice_coef: 0.1967
+  f1_score: 0.1967
+  iou_metric: 0.1093
+  loss: 0.8053
+  val_accuracy: 0.0730
+  val_dice_coef: 0.1360
+  val_f1_score: 0.1360
+  val_iou_metric: 0.0730
+  val_loss: 0.8640
+

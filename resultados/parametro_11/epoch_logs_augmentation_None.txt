@@ -1,0 +1,63 @@
+LOGS DE ENTRENAMIENTO - augmentation = None
+================================================================================
+
+Epoch 1
+  Loss: 0.266104
+  Val Loss: 6.622284
+  Accuracy: 0.914031
+  Val Accuracy: 0.095164
+
+Epoch 2
+  Loss: 0.165166
+  Val Loss: 25.950649
+  Accuracy: 0.945527
+  Val Accuracy: 0.123687
+
+Epoch 3
+  Loss: 0.139344
+  Val Loss: 0.248713
+  Accuracy: 0.953913
+  Val Accuracy: 0.931885
+
+Epoch 4
+  Loss: 0.126868
+  Val Loss: 0.274807
+  Accuracy: 0.956976
+  Val Accuracy: 0.931885
+
+Epoch 5
+  Loss: 0.122417
+  Val Loss: 0.251681
+  Accuracy: 0.958795
+  Val Accuracy: 0.931875
+
+Epoch 6
+  Loss: 0.114482
+  Val Loss: 0.285467
+  Accuracy: 0.960593
+  Val Accuracy: 0.931809
+
+Epoch 7
+  Loss: 0.105695
+  Val Loss: 0.272495
+  Accuracy: 0.963260
+  Val Accuracy: 0.930871
+
+Epoch 8
+  Loss: 0.099336
+  Val Loss: 0.293625
+  Accuracy: 0.965033
+  Val Accuracy: 0.930556
+
+Epoch 9
+  Loss: 0.094525
+  Val Loss: 0.287607
+  Accuracy: 0.966902
+  Val Accuracy: 0.927459
+
+Epoch 10
+  Loss: 0.087708
+  Val Loss: 0.273553
+  Accuracy: 0.969153
+  Val Accuracy: 0.923871
+

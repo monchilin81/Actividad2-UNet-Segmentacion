@@ -1,0 +1,14 @@
+{
+    "experiment_name": "Parametro_12_NumLayers",
+    "parameter_name": "num_layers",
+    "parameter_value": 3,
+    "training_time_minutes": 42.01,
+    "best_val_iou": 0.07694284617900848,
+    "best_val_dice": 0.14219340682029724,
+    "best_val_f1": 0.14219315350055695,
+    "best_val_accuracy": 0.9269668459892273,
+    "best_val_loss": 0.25957587361335754,
+    "best_train_accuracy": 0.9635164141654968,
+    "best_train_loss": 0.10649570822715759,
+    "total_epochs": 10
+}
